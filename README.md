@@ -1,5 +1,8 @@
 # qlik_superstore
-Qlik Sense dashboard made using Superstore sample dataset
+Qlik Sense dashboard made using Superstore sample dataset 
+1. QS file: "Superstore.qvf"
+2. Dataset: "Sample - Superstore Sales (Excel).xls"
+3. Screenshots: "images" folder
 
 ### Sheet 1 (Overall)
 1. Showcasing high-level aggregated KPIs and key figures
